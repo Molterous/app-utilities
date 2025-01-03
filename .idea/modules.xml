@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/app-utilities.iml" filepath="$PROJECT_DIR$/.idea/app-utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_utilities.iml" filepath="$PROJECT_DIR$/app_utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/app_utilities_android.iml" filepath="$PROJECT_DIR$/android/app_utilities_android.iml" />
     </modules>
   </component>
 </project>
